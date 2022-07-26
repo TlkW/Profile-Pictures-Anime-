@@ -16,6 +16,10 @@ In english:
 - The photo list is not organized, but at least it is numbered.
 - The quality of the images is varied.
 
+# Preview:
+
+![image](https://user-images.githubusercontent.com/110054625/181130152-5d78a816-8c68-4712-9e48-21a50765556a.png)
+
 
 
 
