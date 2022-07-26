@@ -1,4 +1,4 @@
-# Profile Pictures ~ Anime ~
+# Profile Pictures ~Anime~
 
 ## Pontos importantes:
 
