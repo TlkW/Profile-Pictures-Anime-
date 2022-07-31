@@ -1,16 +1,16 @@
 # Profile Pictures ~Anime~
 
-# Preview:
+# 🗂️ Preview:
 
 ![image](https://user-images.githubusercontent.com/110054625/182037798-9892fbe5-04b3-45ae-a02a-07831389e597.png)
 
 
 <details>
-  <summary><b>Clique aqui para ver os pontos importantes/Click here to see the important points:</b></summary>
+  <summary><b> 👉 Clique aqui para ver os pontos importantes/Click here to see the important points:</b></summary>
   <br/>
 
 
-## Pontos importantes:
+## 📌 Pontos importantes:
 
 - Tem +30 fotos pra vc usar de perfil.
 - Sempre que eu puder, eu atualizo.
@@ -19,7 +19,7 @@
 
 In english:
 
-## Important points:
+## 📌 Important points:
 
 - There are +30 photos for you to use as a profile.
 - Whenever I can, I update.
